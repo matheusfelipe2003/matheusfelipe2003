@@ -1,3 +1,4 @@
+
 # 👨🏻‍💻 Matheus Felipe Carvalho
 
 **`Desenvolvedor FullStack`**
@@ -162,12 +163,19 @@ Atualmente, compartilho meus projetos, aprendizados e evolução como desenvolve
 
 ### 📊 Estatísticas
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipe2003&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px;">
+    <img 
+      alt="Estatísticas de Linguagens" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipe2003&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+    <img 
+      alt="GitHub Streak" 
+      height="200" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfelipe2003&theme=tokyonight" 
+    />
+  </div>
 </p>
 
-
+  
